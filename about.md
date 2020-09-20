@@ -16,4 +16,5 @@ I will probably add some link to my resume at some point!
 ### Contact me
 
 [bencheong99@gmail.com](mailto:bencheong99@gmail.com)
+
 Discord: sockratees#1262
