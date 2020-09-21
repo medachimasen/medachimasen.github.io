@@ -12,7 +12,7 @@ If any real cost analysis was looked at before hand, you'll find that many of th
 
 Now this brings up another question on my side. Why do people care so much about itemization? Well, funny enough Riot Azael actually brought this up recently in a tweet:
 
-https://twitter.com/riotazael/status/1304484647988940803?s=21 (I can't show these as twitter cards at the moment. I will try to fix this later on)
+[Riot Azael's Twitter Post] (https://twitter.com/riotazael/status/1304484647988940803?s=21) (I can't show these as twitter cards at the moment. I will try to fix this later on)
 
 I agree with him that the biggest reason why people argue about itemization and drafts is because it is so easy to do on paper. It does not require immense amounts of game knowledge to debate with direct numbers to use for argument. Furthermore, it's difficult to say a certain approach is wrong because of how difficult it is to gauge value on item passives and how a playstyle can be adapted to effectively use an item. However, I also agree with Isaac in the fact that it's overtaken the value of discussion on gameplay, which is more valuable in talking about when determining why a team won. JDG did not lose to TES just because Yagao bought Morellonomicon. JDG lost because of a series of outplays and macro mistakes throughout the game, for example Kanavi's urgency to create more space by pushing too far into Karsa's jungle to get caught out or knight's hidden Syndra Q to hit a surprise stun on Kanavi and LvMao in their fight to contest dragon.
 
