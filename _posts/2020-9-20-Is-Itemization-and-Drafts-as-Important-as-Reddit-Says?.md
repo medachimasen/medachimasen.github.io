@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Itemization and Drafts as Important as Reddit Says?
+title: Is Itemization as Important as Reddit Says?
 ---
 Being able to understand both Korean and English has been a blessing for me when uncovering ideas and strategy involved in professional League of Legends, but one thing I've noticed with the English speaking side of analysis is their rather obnoxious view on itemization and draft, often calling out players or coaches for either buying the "incorrect" item in a given situation or drafting "badly" into the enemy composition.
 
