@@ -12,6 +12,6 @@ If any real cost analysis was looked at before hand, you'll find that many of th
 
 Now this brings up another question on my side. Why do people care so much about itemization? Well, funny enough Riot Azael actually brought this up recently in a tweet:
 
-{% twitter https://twitter.com/riotazael/status/1304484647988940803}
+{% twitter https://twitter.com/riotazael/status/1304484647988940803 %}
 
 The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
