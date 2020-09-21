@@ -12,5 +12,5 @@ If any real cost analysis was looked at before hand, you'll find that many of th
 
 Now this brings up another question on my side. Why do people care so much about itemization? Well, funny enough Riot Azael actually brought this up recently in a tweet:
 
-{% twitter https://twitter.com/riotazael/status/1304484647988940803 %}
+{% youtube cVs3HEb_w_g %}
 
