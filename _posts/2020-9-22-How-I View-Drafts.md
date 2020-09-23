@@ -50,3 +50,20 @@ With the final round of bans, DWG have bans on Irelia and Ekko, which is to deny
 
 So DRX's first pick after these bans is Pyke, obviously reserving counterpick for Chovy. Pyke is a great pick given Keria's ability to find picks and playmake. As DWG's final picks they pick Syndra and Ornn, which provides DWG with a really strong scaling option into late game, securing the win if they can keep an even game state for long enough. In response, Chovy is picked Akali, giving kill potential and rounding out DRX's composition to aim to find picks and accelerate the game. Now let's talk about the matchups more specifically.
 
+Top Lane:
+
+The Renekton against Ornn matchup is somewhat of a skill matchup. The nature of the matchup is give and take. Ornn can take a lot more abuse than other tank toplaners which makes Renekton's kill threat a lot weaker than with other top laners. But, that does not mean he doesn't have kill threat on Ornn. If Ornn attempts to push for priority without having the necessary resources (jungle pressure, items, etc.) to do so, Ornn will lose to Renekton. But on an even bigger scope, how do these champions play into their compositions? For DWG, Ornn provides a powerful frontline into the late game that no champion on DRX really has an answer to unless they are ahead. For DRX, Renekton provides stronger early game and strong dive potential. Keeping that in mind, let's look into the jungle matchup.
+
+Jungle:
+
+A lot of LCK and LPL players have pointed out that Lillia is an extremely skill expressive champion, reflecting how well a professional can use her speed buff to navigate fights and apply pressure. We saw a good showing of Lillia in LPL Summer Finals through JDG Kanavi. While, he didn't win, he showed Lillia's ability to create early aggression by stealing camps early and being able to kite out a lot of junglers as well as provide a good way to engage if a well placed ultimate is activated. In this case, Pyosik definetly has the mechanical prowess to pilot Lillia and into Volibear, Lillia has the ability to kite him out in any fight. Volibear does not need too much of an introduction here. He provides a lot of tower dive pressure as well as a very straightforward game plan, which makes it very easy for anybody on DWG to follow up.
+
+Mid Lane:
+
+How both midlaners play is fundamentally different, with Syndra being a control mage that scales extremely well into late while Akali has much more kill potential early and way more opportunities to pick off stragglers in teamfights or rotations. The question in laning phase is how much Showmaker is willing to respect Chovy's Akali because Akali's all-in early can lead to a terrible laning phase for Syndra, or the Syndra can respect Akali more and give up more CS in return.
+
+Bot Lane:
+
+The laning phase matchup is a skill matchup with the trading patter for Jhin eneabling to go even and pressure for lane advantage against Caitlyn. But the biggest reason why he's counterpicked often against Caitlyn is his ability to match range if not out range Caitlyn during teamfights with his ultimate and W. Furthermore, with Rapidfire Cannon, Jhin can easily poke heavily with his auto attack. However, supports dictate the pace and the dynamic of the bot lane. In this case, with Keria on Pyke, they have a means to accelerate the game quickly with his hook as well as his gold generation, in addition to his ability to roam and outplay in teamfights. Lux on the other hand, can engage by landing her bind, but more often than not in this matchup will look to hold it to disengage against Pyke. Lux however comes with the benefit of free bush checks and long range nuke damage for teamfights which complements the playstyle Caitlyn provides.
+
+So why did people say that DRX "lost" draft here? Well the lack of an answer to Ornn as well as the fact that DWG's composition just scales better. In order to face this problem with Ornn, DRX needs to be further ahead and win the game. So, if you look at the singular win condition of respecting pressure and scaling for items, of course DWG has the better composition. But
