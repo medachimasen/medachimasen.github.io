@@ -32,4 +32,12 @@ Ban 4: Camille      Pick 4: Wukong
 
 Ban 5: Sett         Pick 5: Nautilus
 
+While I can talk about the reasoning behind this draft, I want to talk more about laning and win conditions. At this point, many people said JDG automatically wins the game due to drafting Malphite, who arguably counters their entire team composition.
 
+When it comes to laning phase, Wukong should be able to bully out his counterpart in early stages of the game, specifically before bramblevest. Nidalee vs Graves is a skill matchup with both junglers scaling really well into late as well as having good early game ganking potential with dashes. Lucian should be able to beat out Zoe, as it became a favorite counterpick into her. Botlane is based around how the supports decide to play it out, but with LvMao on Bard, there is a good chance he will look to roam and Loken will be forced to play weakside for most of the laning phase.
+
+Now we should talk about win conditions for JDG vs TES. While both teams have good options for scaling, a lot of this scaling is nullified for TES because of Zoom's Malphite. But understanding both teams have this scaling option means that if TES can find a way around playing into Malphite, they can look to win the game.
+
+Originally, I heard a lot of people complain about 369's TriForce, saying he should have opted for Black Cleaver instead. Now the obvious reason is so that they have an answer to Malphite's armor, however, I actually think TriForce was the correct item for what TES needed to do. With 3 champions that can look to dive, TES would want to trade backlines. If Wukong, Lucian, and Nidalee, manage to catch JDG's backline, they will have immediate priority in all fights, whereas if Wukong looks to directly fight Malphite, TES is forced to determine the fight on how quickly they can take out Malphite.
+
+By realizing these win conditions and playing for them, TES increases their chances of winning the game. Now determining whether their win conditions were correct and they just weren't able to execute as well as JDG's win conditions is a different argument that would require further analysis of each play. However, an important takeaway I see here is to learn what professionals are doing and try to understand their decision-making rather than criticizing them. I see too often, that casual players don't look to understand the professional mindset when this should be priority in getting better at League of Legends or understanding the professional scene better.
